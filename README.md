@@ -54,7 +54,7 @@ A scalable E-commerce REST API built with **Node.js, Express, and MongoDB** for 
 ### 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/your-username/ecommerce-api.git
+git clone https://github.com/aliabrar21/AdaptNXT-Assignment.git
 cd ecommerce-api
 ````
 
